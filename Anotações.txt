@@ -1,3 +1,9 @@
 Final da seção 1
 - Seção 2
 Uso da IDE VSCode
+- Extensões
+    - Live Server
+        Atualiza o navegador ao modificar o código
+        
+    - vscode-icons
+        coloca os itens com os ícones de acordo com seu tipo
