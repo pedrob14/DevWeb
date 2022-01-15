@@ -1,1 +1,3 @@
 Final da seção 1
+- Seção 2
+Uso da IDE VSCode
