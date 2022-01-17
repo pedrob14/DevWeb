@@ -7,3 +7,4 @@ Uso da IDE VSCode
         
     - vscode-icons
         coloca os itens com os ícones de acordo com seu tipo
+Final da seção 2
